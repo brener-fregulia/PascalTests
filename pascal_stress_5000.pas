@@ -2,6 +2,7 @@ program PascalHighlightStress5000;
 
 {$mode objfpc}{$H+}
 
+
 uses
   SysUtils, Math;
 

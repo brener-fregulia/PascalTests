@@ -1,5 +1,6 @@
 program PascalHighlightStress10000;
 
+
 {$mode objfpc}{$H+}
 
 uses
