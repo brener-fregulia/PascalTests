@@ -1,6 +1,6 @@
 program Test1;
 
 begin
-  WriteLn('Teste');
-  
+  WriteLn('Test1');
+  WriteLn('Test2');
 end.
